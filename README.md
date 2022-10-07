@@ -1,7 +1,7 @@
 看了教程做着玩的
 =
 ### 导入地址
-    https://github.com/xsx-git/XiangSeGuiGe/raw/main/README.md
+	https://github.com/xsx-git/XiangSeGuiGe/raw/main/README.md
 
 1.小说
 -
@@ -44,7 +44,7 @@
 #### x-快书库
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/XiaoShuo/x-KuaiShuKu.xbs
 #### x-苦瓜
-	https://github.com/xsx-git/XiangSeGuiGe/raw/main/XiaoShuo/x-KuGua.xbs
+    https://github.com/xsx-git/XiangSeGuiGe/raw/main/XiaoShuo/x-KuGua.xbs
 #### x-明月中文
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/XiaoShuo/x-MingYueZhongWen.xbs
 #### x-起舞中文
@@ -65,12 +65,12 @@
 2.漫画
 -
 #### x-733动漫
-    https://github.com/xsx-git/XiangSeGuiGe/raw/main/ManHua/x-733DongMan.xbs
+	https://github.com/xsx-git/XiangSeGuiGe/raw/main/ManHua/x-733DongMan.xbs
 #### x-包子漫画
-    https://github.com/xsx-git/XiangSeGuiGe/raw/main/ManHua/x-BaoZiManHua.xbs
+	https://github.com/xsx-git/XiangSeGuiGe/raw/main/ManHua/x-BaoZiManHua.xbs
 #### x-酷漫屋
-    https://github.com/xsx-git/XiangSeGuiGe/raw/main/ManHua/x-KuManWu.xbs
+	https://github.com/xsx-git/XiangSeGuiGe/raw/main/ManHua/x-KuManWu.xbs
 #### x-七夕漫画
-    https://github.com/xsx-git/XiangSeGuiGe/raw/main/ManHua/x-QiXiManHua.xbs
+	https://github.com/xsx-git/XiangSeGuiGe/raw/main/ManHua/x-QiXiManHua.xbs
 #### x-yyds
-    https://github.com/xsx-git/XiangSeGuiGe/raw/main/ManHua/x-yyds.xbs
+	https://github.com/xsx-git/XiangSeGuiGe/raw/main/ManHua/x-yyds.xbs
