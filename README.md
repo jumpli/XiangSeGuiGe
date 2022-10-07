@@ -1,7 +1,7 @@
 看了教程做着玩的
 =
 ### 导入地址
-	https://github.com/xsx-git/XiangSeGuiGe/raw/main/README.md
+	https://raw.githubusercontent.com/xsx-git/XiangSeGuiGe/main/README.md
 
 1.小说
 -
