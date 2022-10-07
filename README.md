@@ -61,6 +61,8 @@
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/XiaoShuo/x-XuanHuanWenXue.xbs
 #### x-一读小说
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/XiaoShuo/x-YiDuXiaoShuo.xbs
+#### x-趣书网
+	https://github.com/xsx-git/XiangSeGuiGe/raw/main/XiaoShuo/x-QuShuWang.xbs
 
 2.漫画
 -
