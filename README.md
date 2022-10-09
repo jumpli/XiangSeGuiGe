@@ -1,6 +1,6 @@
 看了教程做着玩的（自用）
 =
-### 导入地址
+### 汇总导入地址
 	https://raw.githubusercontent.com/xsx-git/XiangSeGuiGe/main/README.md
 
 1.小说
