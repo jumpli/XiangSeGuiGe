@@ -5,6 +5,8 @@
 
 1.小说
 -
+#### x-147小说
+	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/147XiaoShuo/x-147XiaoShuo.xbs
 #### x-笔趣阁9x
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/BiQuGe9x/x-BiQuGe9x.xbs
 #### x-80电子书
