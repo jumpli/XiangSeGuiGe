@@ -1,4 +1,4 @@
-看了教程做着玩的（自用）
+做着玩的（自用）
 =
 ### 汇总导入地址
 	https://raw.githubusercontent.com/xsx-git/XiangSeGuiGe/main/README.md
