@@ -5,6 +5,8 @@
 
 1.小说
 -
+#### x-求书网
+	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/QiuShuWang/x-QiuShuWang.xbs
 #### x-147小说
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/147XiaoShuo/x-147XiaoShuo.xbs
 #### x-笔趣阁9x
