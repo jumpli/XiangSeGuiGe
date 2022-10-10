@@ -1,9 +1,9 @@
 做着玩的（自用）
 =
-### 汇总导入地址
+### 汇总导入:
 	https://raw.githubusercontent.com/xsx-git/XiangSeGuiGe/main/README.md
 
-1.小说
+1.小说:
 -
 #### x-求书网
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/QiuShuWang/x-QiuShuWang.xbs
@@ -74,7 +74,7 @@
 #### x-腐书网
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/FuShuWang/x-FuShuWang.xbs
 
-2.漫画
+2.漫画:
 -
 #### x-733动漫
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/mh/733DongMan/x-733DongMan.xbs
