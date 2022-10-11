@@ -5,6 +5,8 @@
 
 1.小说：
 -
+#### x-当书网
+	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/DangShuWang/x-DangShuWang.xbs
 #### x-求书网
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/QiuShuWang/x-QiuShuWang.xbs
 #### x-147小说
