@@ -1,4 +1,4 @@
-做着玩的（自用）
+做着玩
 =
 ### 汇总导入：
 	https://raw.githubusercontent.com/xsx-git/XiangSeGuiGe/main/README.md
@@ -54,7 +54,7 @@
 #### x-快书库
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/KuaiShuKu/x-KuaiShuKu.xbs
 #### x-苦瓜
-    https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/KuGua/x-KuGua.xbs
+    	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/KuGua/x-KuGua.xbs
 #### x-明月中文
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/MingYueZhongWen/x-MingYueZhongWen.xbs
 #### x-起舞中文
