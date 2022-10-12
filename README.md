@@ -81,7 +81,7 @@
 2.漫画：
 -
 #### x-拷贝漫画
-	https://github.com/xsx-git/XiangSeGuiGe/raw/main/mh/KaoBeiManHua/x-KaoBeiManHua.xbs
+	https://github.com/xsx-git/XiangSeGuiGe/raw/main/mh/KaoBeiManHua/x-%EF%B8%8FKaoBeiManHua.xbs
 #### x-733动漫
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/mh/733DongMan/x-733DongMan.xbs
 #### x-包子漫画
