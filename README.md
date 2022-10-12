@@ -5,6 +5,8 @@
 
 1.小说：
 -
+#### x-久久小说
+	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/JiuJiuXiaoShuo/x-JiuJiuXiaoShuo.xbs
 #### x-当书网
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/DangShuWang/x-DangShuWang.xbs
 #### x-求书网
