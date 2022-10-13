@@ -3,7 +3,7 @@
 ### 全部导入：
 	https://raw.githubusercontent.com/xsx-git/XiangSeGuiGe/main/README.md
 
-1.小说（38个）：
+1.小说（38）：
 -
 #### x-大文学
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/DaWenXue/x-DaWenXue.xbs
