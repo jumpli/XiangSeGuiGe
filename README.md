@@ -5,6 +5,8 @@
 
 1.小说：
 -
+#### x-大文学
+	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/DaWenXue/x-DaWenXue.xbs
 #### x-久久小说
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/JiuJiuXiaoShuo/x-JiuJiuXiaoShuo.xbs
 #### x-当书网
