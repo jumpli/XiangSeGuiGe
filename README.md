@@ -1,9 +1,9 @@
 自用及帮人做的源
 =
-### 汇总导入：
+### 全部导入地址：
 	https://raw.githubusercontent.com/xsx-git/XiangSeGuiGe/main/README.md
 
-1.小说：
+1.小说（38个）：
 -
 #### x-大文学
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/DaWenXue/x-DaWenXue.xbs
@@ -82,7 +82,7 @@
 #### x-腐书网
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/FuShuWang/x-FuShuWang.xbs
 
-2.漫画：
+2.漫画（6）：
 -
 #### x-拷贝漫画
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/mh/KaoBeiManHua/x-%EF%B8%8FKaoBeiManHua.xbs
