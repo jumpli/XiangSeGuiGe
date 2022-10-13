@@ -3,7 +3,7 @@
 ### 全部导入：
 	https://raw.githubusercontent.com/xsx-git/XiangSeGuiGe/main/README.md
 
-1.小说（38）：
+1.小说：
 -
 #### x-大文学
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/DaWenXue/x-DaWenXue.xbs
@@ -82,7 +82,7 @@
 #### x-腐书网
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/FuShuWang/x-FuShuWang.xbs
 
-2.漫画（6）：
+2.漫画：
 -
 #### x-拷贝漫画
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/mh/KaoBeiManHua/x-%EF%B8%8FKaoBeiManHua.xbs
