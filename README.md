@@ -1,6 +1,6 @@
 自用及帮人做的源
 =
-### 全部导入地址：
+### 全部导入：
 	https://raw.githubusercontent.com/xsx-git/XiangSeGuiGe/main/README.md
 
 1.小说（38个）：
