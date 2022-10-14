@@ -5,6 +5,8 @@
 
 1.小说：
 -
+#### x-同人小说网
+	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/TongRenXiaoShuoWang/x-TongRenXiaoShuoWang.xbs
 #### x-御书网
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/YuShuWang/x-YuShuWang.xbs
 #### x-帝书阁
