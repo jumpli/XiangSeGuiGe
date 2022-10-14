@@ -5,6 +5,8 @@
 
 1.小说：
 -
+#### x-御书网
+	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/YuShuWang/x-YuShuWang.xbs
 #### x-帝书阁
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/DiShuGe/x-DiShuGe.xbs
 #### x-大文学
