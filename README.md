@@ -5,6 +5,8 @@
 
 1.小说：
 -
+#### x-帝书阁
+	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/DiShuGe/x-DiShuGe.xbs
 #### x-大文学
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/DaWenXue/x-DaWenXue.xbs
 #### x-久久小说
