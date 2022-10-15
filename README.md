@@ -5,6 +5,8 @@
 
 1.小说：
 -
+#### x-文库8
+	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/WenKu8/x-WenKu8.xbs
 #### x-同人小说网
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/TongRenXiaoShuoWang/x-TongRenXiaoShuoWang.xbs
 #### x-御书网
