@@ -41,7 +41,7 @@
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/ADiFuXiaoShuo/x-ADiFuXiaoShuo.xbs
 #### x-爱好中文PC版 
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/AiHaoZhongWen/x-AiHaoZhongWen.xbs
-#### x-爱好中文手机版（内容读取慢已解决，但目录读取慢无解）
+#### x-爱好中文手机版（目录读取慢）
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/AiHaoZhongWenH5/x-AiHaoZhongWenH5.xbs
 #### x-巴巴鱼
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/BaBaYu/x-BaBaYu.xbs
