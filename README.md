@@ -94,6 +94,8 @@
 
 2.漫画：
 -
+#### x-666漫画
+	https://github.com/xsx-git/XiangSeGuiGe/raw/main/mh/666ManHua/x-666ManHua.xbs
 #### x-拷贝漫画
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/mh/KaoBeiManHua/x-%EF%B8%8FKaoBeiManHua.xbs
 #### x-733动漫
