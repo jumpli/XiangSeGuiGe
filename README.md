@@ -1,10 +1,12 @@
 自用及帮人做的源
 =
-### 全部导入(小说43,漫画7)：
+### 全部导入(小说44,漫画7)：
 	https://raw.githubusercontent.com/xsx-git/XiangSeGuiGe/main/README.md
 
 1.小说：
 -
+#### x-番茄小说
+	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/FanQieXiaoShuo/x-FanQieXiaoShuo.xbs
 #### x-全本小说网
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/QuanBenXiaoShuoWang/x-QuanBenXiaoShuoWang.xbs
 #### x-文库8（须登录或加cookie）
