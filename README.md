@@ -5,7 +5,7 @@
 
 1.小说：
 -
-#### x-番茄小说
+#### x-番茄小说（暂无发现）
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/FanQieXiaoShuo/x-FanQieXiaoShuo.xbs
 #### x-全本小说网
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/QuanBenXiaoShuoWang/x-QuanBenXiaoShuoWang.xbs
