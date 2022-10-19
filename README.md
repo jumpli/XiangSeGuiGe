@@ -5,6 +5,8 @@
 
 1.小说：
 -
+#### x-哔哩轻小说
+	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/BiLiQingXiaoShuo/x-BiLiQingXiaoShuo.xbs
 #### x-2k中文网（目录加载慢）
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/2kZhongWenWang/x-2kZhongWenWang.xbs
 #### x-番茄小说
