@@ -1,6 +1,6 @@
 自用及帮人做的源
 =
-### 全部导入(小说45,漫画7)：
+### 全部导入(小说46,漫画7)：
 	https://raw.githubusercontent.com/xsx-git/XiangSeGuiGe/main/README.md
 
 1.小说：
