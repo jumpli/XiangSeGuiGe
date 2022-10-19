@@ -1,6 +1,6 @@
 自用及帮人做的源 
 =
-### 全部导入(小说47,漫画7) -- 如有失效可留言告知
+### 全部导入(小说47,漫画7--如有失效可留言)：
 	https://raw.githubusercontent.com/xsx-git/XiangSeGuiGe/main/README.md
 
 1.小说：
