@@ -5,6 +5,8 @@
 
 1.小说：
 -
+#### x-默默中文网（目录加载很慢，搜索有10s限制，建议发现中搜索冷门小说用）
+	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/MoMoZhongWenWang/x-MoMoZhongWenWang.xbs
 #### x-哔哩轻小说
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/BiLiQingXiaoShuo/x-BiLiQingXiaoShuo.xbs
 #### x-2k中文网（目录加载慢）
