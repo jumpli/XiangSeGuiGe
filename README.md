@@ -1,10 +1,12 @@
 自用及帮人做的源 
 =
-### 全部导入(小说47,漫画7--如有失效可留言)：
+### 全部导入(小说48,漫画7--如有失效可留言)：
 	https://raw.githubusercontent.com/xsx-git/XiangSeGuiGe/main/README.md
 
 1.小说：
 -
+#### x-云中书库
+	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/YunZhongShuKu/x-YunZhongShuKu.xbs
 #### x-默默中文网（目录加载很慢，搜索有10s限制，建议在发现中搜索冷门小说用）
 	https://github.com/xsx-git/XiangSeGuiGe/raw/main/xs/MoMoZhongWenWang/x-MoMoZhongWenWang.xbs
 #### x-哔哩轻小说
